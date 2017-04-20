@@ -31,6 +31,7 @@ To use these notebooks simply cut and paste the URLs below when you are creating
 
 > https://raw.githubusercontent.com/smatlapudi/Spark-POT-SF/master/notebooks/Introduction%20to%20SparkML%20-%20Student%20Lab.ipynb
 
+> Data set url : https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
 
 <h2> Demo topics </h2>
 
