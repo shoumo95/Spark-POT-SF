@@ -1,4 +1,5 @@
-# Assets for IBM's Apache Spark Proof of Technology
+# Spark POT
+Assets for IBM's Apache Spark Proof of Technology
 
 <h2>Environment setup for working on Labs</h2>
 You will be using jupyter notebooks and Apache Spark Service to work on the labs.
