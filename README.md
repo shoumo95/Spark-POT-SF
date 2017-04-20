@@ -37,5 +37,7 @@ To use these notebooks simply cut and paste the URLs below when you are creating
 
 > 1. Sparl ML model deployment
 > 2. Apache Spark Streaming
+>    Spark Streming webinar link: https://www.youtube.com/watch?v=_mFm2F7UQgU
+>    Spark Streming demo code : https://github.com/smatlapudi/spark-streaming-webinar1 
 
 
