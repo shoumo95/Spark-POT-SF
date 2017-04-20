@@ -12,8 +12,7 @@ You will be using jupyter notebooks and Apache Spark Service to work on the labs
 
 <h3>2. Log in to IBM Data Science Experience (DSX) to create and run notebooks </h3>
 
-> To setup your IBM DSX (Data Science Experience) enviroment navigate here, login using your above bl:<br>
-> http://datascience.ibm.com/
+> To setup your IBM DSX (Data Science Experience) enviroment navigate to http://datascience.ibm.com here and login using your bluemix userid<br>
 > 
 
 A video tutorial on setting up the enviroment can be viewed here:<br>
