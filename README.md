@@ -1,5 +1,5 @@
 # Introduction to Apache Spark
-San San Francisco, 4/20/2017
+San Francisco, 4/20/2017
 Assets for IBM's Apache Spark Proof of Technology
 
 <h2> Lab environment setup</h2>
