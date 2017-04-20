@@ -33,8 +33,6 @@ To use these notebooks simply cut and paste the URLs below when you are creating
 
 
 <h2> Demo topics </h2>
-To use these notebooks simply cut and paste the URLs below when you are creating a new notebook.
-
 1. Sparl ML models deployment</h3>
 2. Apache Spark Streaming</h3>
 
