@@ -2,7 +2,7 @@
 Assets for IBM's Apache Spark Proof of Technology
 
 <h2> Lab environment setup</h2>
-You will be using jupyter notebooks and Apache Spark Service to work on the labs.
+You will be using notebooks environment and Apache Spark Service to work on the labs.
 
 <h3>1. Setup your Spark Service in IBM Bluemix:</h3>
 
