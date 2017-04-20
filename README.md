@@ -1,7 +1,7 @@
 # Spark POT
 Assets for IBM's Apache Spark Proof of Technology
 
-<h2> Lab Environment setup</h2>
+<h2> Lab environment setup</h2>
 You will be using jupyter notebooks and Apache Spark Service to work on the labs.
 
 <h3>1. Setup your Spark Service in IBM Bluemix:</h3>
@@ -18,7 +18,7 @@ A video tutorial on setting up the enviroment can be viewed here:<br>
 https://www.youtube.com/watch?v=yG3tVVDz1uE
 
 
-<h2> Lab Topics </h2>
+<h2> Lab topics </h2>
 To use these notebooks simply cut and paste the URLs below when you are creating a new notebook.
 
 <h3>1. Introduction to Spark - Python:</h3>
