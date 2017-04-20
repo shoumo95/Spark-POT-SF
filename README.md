@@ -1,4 +1,5 @@
-# Spark POT
+# Introduction to Apache Spark
+San San Francisco, 4/20/2017
 Assets for IBM's Apache Spark Proof of Technology
 
 <h2> Lab environment setup</h2>
@@ -29,5 +30,12 @@ To use these notebooks simply cut and paste the URLs below when you are creating
 <h3>2. Machine Learning - Python:</h3>
 
 > https://raw.githubusercontent.com/smatlapudi/Spark-POT-SF/master/notebooks/Introduction%20to%20SparkML%20-%20Student%20Lab.ipynb
+
+
+<h2> Demo topics </h2>
+To use these notebooks simply cut and paste the URLs below when you are creating a new notebook.
+
+<h3>1. Sparl ML models deployment</h3>
+<h3>2. Apache Spark Streaming</h3>
 
 
